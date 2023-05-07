@@ -10,5 +10,4 @@ The glowing effect is created using CSS box-shadow and animation properties. The
 Customization
 To customize the checkboxes, you can modify the CSS code. For example, you can change the colors, animation timing, or icon size.
 
-Credits
-This file was created by Abu Hasnat using Font Awesome icons and CSS. You are free to use, modify, and distribute this code as you see fit.
+
